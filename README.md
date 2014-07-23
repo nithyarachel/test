@@ -528,6 +528,7 @@ Such approver email selection flow on second configuration page is caused by cer
 
 In this version, revocation functionality has been added. WHMCS end users can request revocation of their reissued certificates. A new button appears on the Certificate Details page if there are any reissued certificates on record:
 
+![Revoke Cerificate](http://files.namecheap.com/images/googlecode/Revoke-Cerificate.png)
 
 Also, this button will be shown in the admin area for specific services.
 With different Certificate Authorities, clicking this button will lead to different behaviors.
