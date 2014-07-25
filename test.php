@@ -12,8 +12,7 @@
     $_M['admin_sync_updated_domain'] = 'Domain updated from admin area. Domain:%s';
     $_M['admin_sync_updated_remoteid'] = 'Remote id updated from admin area. Old id:%s, current id:%s';
     
-    $_M['addon_updated_remoteid'] = 'Remote id updated from addon. Old id:%s, current id:%s';
-    
+
     $_M['admin_resend_configuration_email'] = 'Admin sent configuration email';    
     
     $_M['admin_create'] = 'Admin created certificate on whmcs side. Now client has to configure certificate';
